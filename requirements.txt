@@ -1,0 +1,10 @@
+groq 
+pandas 
+matplotlib 
+scikit-learn 
+ipywidgets
+ipython
+jupyter
+python-dotenv
+jupyterlab 
+ipykernel  
